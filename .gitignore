@@ -1,0 +1,46 @@
+# Datasets y archivos de datos
+data/
+*.csv
+
+# Modelos entrenados
+*.npz
+*.pkl
+*.h5
+
+# Entorno virtual de Python
+venv/
+env/
+.env
+
+# Archivos de cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos temporales
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos específicos de Windows
+desktop.ini
+
+# Archivos grandes o binarios
+*.gif
+*.pbix
+*.pdf
